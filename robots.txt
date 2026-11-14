@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.saasplatformen.dk/sitemap-index.xml
